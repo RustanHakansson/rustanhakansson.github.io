@@ -11,6 +11,7 @@ img {
   position: absolute;
   max-width: 80%;
   left: 10%;
+  max-height: 70%;
   margin-top: 5%;
 }
 
@@ -22,6 +23,7 @@ img {
   img {
     position: absolute;
     max-width: 90%;
+    max-height: 60%;
     left: 5%;
     margin-top: 20%;
   }
